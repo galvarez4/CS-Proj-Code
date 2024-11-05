@@ -1,0 +1,20 @@
+R,Merck,I3,3/14/2023,98,223
+R,Mastercard Inc. Class A,W8,3/15/2023,117,174
+R,PepsiCo,J7,3/15/2023,165,224
+R,Amazon,L4,3/13/2023,283,136
+R,Berkshire Hathaway Class B,Z2,3/16/2023,96,83
+S,Chevron Corporation,P5,3/16/2023,310,72,14
+S,AbbVie Inc.,O8,3/15/2023,191,133,11
+S,Chevron Corporation,A6,3/15/2023,210,153,16
+S,Chevron Corporation,L8,3/16/2023,249,87,9
+S,Procter & Gamble,V7,3/15/2023,297,219,16
+R,Mastercard Inc. Class A,P8,3/17/2023,252,94
+R,NVIDIA,J6,3/16/2023,193,126
+S,UnitedHealth Group,A6,3/13/2023,300,77,15
+S,Procter & Gamble,Y6,3/16/2023,287,130,13
+R,Procter & Gamble,S6,3/14/2023,232,168
+S,Visa Class A,Y4,3/16/2023,335,130,10
+S,Amazon,X7,3/13/2023,258,36,11
+R,Apple,H6,3/17/2023,182,159
+S,Meta,W5,3/16/2023,304,141,11
+S,AbbVie Inc.,I7,3/13/2023,253,201,11
